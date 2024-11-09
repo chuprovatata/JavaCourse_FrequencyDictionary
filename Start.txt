@@ -1,0 +1,4 @@
+qwertyuiopasdfghjklzxcvbnm // Здесь все строчные буквы латинского алфавита
+QWERTYUIOPASDFGHJKLZXCVBNM // Здесь все заглавные буквы латинского алфавита
+$*%#$#
+PPP
